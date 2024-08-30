@@ -11,8 +11,8 @@ There are several services available, but only two are essential:
 
 To begin, you need to deploy the two main services. Follow the instructions in their respective guides:
 
-- [Traefik Deployment](networking/traefik/README.md)
-- [CrowdSec Deployment](networking/crowdsec/README.md)
+- [Traefik Deployment](traefik/README.md)
+- [CrowdSec Deployment](crowdsec/README.md)
 
 ## Next Steps
 

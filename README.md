@@ -6,20 +6,11 @@
 
 **This project is in WIP state**
 
-**Awesome Open Source Projects** is an initiative to collect and make available fully functional FOSS (Free and Open Source Software) projects, with pre-configured setups to facilitate their deployment and integration in development and production environments. The main focus is on server applications that can be easily deployed using Docker and Kubernetes.
+**Awesome Open Source Projects** is an initiative to collect and make available fully functional FOSS (Free and Open Source Software) projects, with pre-configured setups to facilitate their deployment and integration in development and production environments. The main focus is on server applications that can be easily deployed using Docker and Kubernetes and on desktop apps.
 
-## Features
+## How to use
 
-- **Curated Projects:** Each included project has been selected for its utility, code quality, and popularity within the open-source community.
-- **Ready-to-Use Configurations:** Each project comes with predefined configurations for Docker and Kubernetes, enabling quick and hassle-free deployment.
-- **Scalability:** Thanks to Kubernetes integration, projects can easily scale to meet production needs.
-- **Detailed Documentation:** Each project includes a step-by-step guide for installation, configuration, and management.
-
-## Included Projects
-
-## Usage
-
-After configuring the projects, access the exposed services through their respective URLs. Please refer to the documentation of each project for detailed usage and configuration information.
+- [Docker Single Host Server](docker/README.md)
 
 ## Contributing
 
@@ -33,9 +24,9 @@ We welcome contributions from the community! To contribute:
 
 ## Roadmap
 
-- [ ] Add new FOSS projects.
-- [ ] Improve documentation for Kubernetes integration.
-- [ ] Implement automated tests for deployment configurations.
+- [ ] Finish Docker single host guide and configuration.
+- [ ] Work on kubernetes and docker swarm configuration.
+- [ ] Work on desktop apps configuration.
 
 ## License
 
