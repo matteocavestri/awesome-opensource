@@ -65,7 +65,7 @@ This directory contains the basic configuration for [Traefik](https://traefik.io
 
 8. **Depending on the configuration in the `config/config.yml` file, deploy CrowdSec and Authentik before accessing the dashboard.**
 
-   The guide continues with the setup and configuration of CrowdSec.
+   The guide continues with the setup and configuration of [CrowdSec](../crowdsec/README.md).
 
 ## Usage
 

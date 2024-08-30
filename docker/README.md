@@ -1,3 +1,3 @@
 WIP:
 
-For now the guide starts ad [networking](networking/README.md)
+The guide starts ad [networking](networking/README.md)

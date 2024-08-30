@@ -48,7 +48,7 @@
    ```
 
 6. **CrowdSec configuration is complete.**  
-   The next step is to set up Authentik as an authentication system to begin securely deploying services. The guide continues with Authentik setup.
+   The next step is to set up [Authentik](../../authentication/authentik/README.md) as an authentication system to begin securely deploying services. The guide continues with Authentik setup.
 
 ## Usage
 

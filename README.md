@@ -10,7 +10,8 @@
 
 ## How to use
 
-- [Docker Single Host Server](docker/README.md)
+- [Server Services](docs/server-services.md)
+- [Docker Single Host Server](docs/docker-guide.md)
 
 ## Contributing
 
